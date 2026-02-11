@@ -10,7 +10,7 @@
   "author": "Prajjwal Pathak",
   "license": "ISC",
   "dependencies": {
-    "bcrypt": "^5.1.0",
+    "bcrypt": "^6.0.0",
     "ejs": "^3.1.10",
     "express": "^4.22.1",
     "express-flash": "^0.0.2",
